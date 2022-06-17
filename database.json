@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "email": "g@g.com",
+      "password": "ggg"
+    },
+    {
+      "id": 1,
+      "password": "ggg",
+      "email": "gabriel@driven.com"
+    }
+  ],
+  "album": [
+    {
+      "id": 0,
+      "title": " driven eletrohits só as melhores",
+      "artist": "driven",
+      "music": [
+        0
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Samer eletrohits",
+      "artist": "samer",
+      "music": [
+
+        0
+      ]
+    }
+  ],
+  "music": [
+    {
+      "id": 0,
+      "title": " driven eletrohits",
+      "artist": "driven",
+      "url": "algumaurldaora"
+    }
+  ],
+  "artist": []
+}
