@@ -31,9 +31,8 @@ app.post("/login",(req,res)=>{
             email:user.email
         },
         token,
-    }
-       
-    )
+    });
+
 })
 app.post("/signup",(req,res)=>{
     const {email,password} = req.body;
